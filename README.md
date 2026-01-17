@@ -23,10 +23,10 @@ Frames can be saved and played back using a separate player with manual switchin
 
 ## 🧩 Project Structure
 
-editor/ → LED matrix design tool
-player/ → Frame player and animation tool
-esp/ → ESP8266 / Arduino MAX7219 pixel server
-examples/ → Sample frame files
+- editor/ → LED matrix design tool
+- player/ → Frame player and animation tool
+- esp/ → ESP8266 / Arduino MAX7219 pixel server
+- examples/ → Sample frame files
 
 
 ---
